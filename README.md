@@ -1,0 +1,1 @@
+## Simple web-component *"news"* on JavaScript
